@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Student Website</title>
+    <style>
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Your Name</h1>
+        <p>Bachelor of Commerce (BCom) graduate | CMA USA aspirant</p>
+        <h2>About Me</h2>
+        <p>Introduce yourself here. Briefly mention your background, interests, and career goals.</p>
+        <h2>Education</h2>
+        <p>BCom in Finance | Your University | GPA: X.XX</p>
+        <h2>CV/Resume</h2>
+        <p>Provide a link to your downloadable CV or resume.</p>
+        <h2>Skills</h2>
+        <ul>
+            <li>Fluent in English</li>
+            <li>Financial analysis</li>
+            <li>Budgeting and forecasting</li>
+            <li>Microsoft Office Suite (Excel, Word, PowerPoint)</li>
+            <!-- Add more skills as needed -->
+        </ul>
+        <h2>Contact</h2>
+        <p>Email: your@email.com</p>
+        <!-- Add social media links or a contact form -->
+    </div>
+</body>
+</html>
